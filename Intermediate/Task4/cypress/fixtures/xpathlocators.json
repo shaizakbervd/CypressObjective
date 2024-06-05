@@ -1,0 +1,12 @@
+{
+    "Login": "//a[contains(text(),'register')]",
+    "userNameSelector": "//input[@name='loginname']",
+    "passwordSelector": "//input[@name='password']",
+    "submitSelector": "//button[@title='Login']",
+    "HomeText": "//div[@class='menu_text']",
+    "Home": "//a[@class='active menu_home']",
+    "Dove": "//img[@alt='Dove']/parent::a",
+    "Products": "//div[@class='thumbnails grid row list-inline']/child::div",
+    "Price Tag":"//div[@class='pricetag jumbotron']/child::span[contains(@class, 'nostock')]",
+    "Add Cart": "//div[@class='pricetag jumbotron']/child::a[contains(@class, 'productcart')]"
+}

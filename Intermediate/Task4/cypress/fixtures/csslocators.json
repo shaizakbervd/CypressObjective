@@ -1,0 +1,27 @@
+{
+    "userNameSelector": "input[name='loginname']",
+    "passwordSelector": "input[name='password']",
+    "submitSelector": "button[title='Login']",
+    "HomeText": "div[class='menu_text']",
+    "Home": "a[class='active menu_home']",
+    "Apparel": "[href='https://automationteststore.com/index.php?rt=product/category&path=68']",
+    "Shoes": "ul.thumbnails > :nth-child(1) > :nth-child(1) > img",
+    "Tshirts": "ul.thumbnails > :nth-child(2) > :nth-child(1) > img",
+    "PriceTag": ".col-md-3 .pricetag .oneprice",
+    "Items": ".col-md-3",
+    "ProductCart": ".productcart",
+    "Qty": "input[id='product_quantity']",
+    "Cart": "a[class='cart']",
+    "Displayed_Qty": "div[class='input-group input-group-sm'] input",
+    "Remove": ":nth-child(7) > .btn",
+    "Select_dd": "select[id='sort']",
+    "Productprice": ".price .oneprice",
+    "Productstock": ".pricetag .nostock",
+    "Productcart": ".productcart",
+    "SkinCare": "a[href='https://automationteststore.com/index.php?rt=product/category&path=43']",
+    "Skinproducts": ".col-md-3.col-sm-6.col-xs-12",
+    "Sale": ".sale",
+    "Nostock": ".nostock",
+    "Men": "a[href='https://automationteststore.com/index.php?rt=product/category&path=58']"
+
+}
